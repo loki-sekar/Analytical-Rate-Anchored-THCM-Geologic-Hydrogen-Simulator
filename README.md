@@ -19,21 +19,6 @@ This repository contains a reduced-order thermal-hydraulic-chemical-mechanical (
 
 ![Workflow](images/workflow.png)
 
-The analytical generation rate is
-
-\[
-q_{H_2}(t)=q_{\max}(A,T)L_N(t)P(t),
-\]
-
-with
-
-\[
-q_{\max}(A,T)=q_{\max,\mathrm{ref}}
-\left(\frac{A}{A_{\mathrm{ref}}}\right)^\beta F_T,
-\qquad
-A=2L_xL_zN_f.
-\]
-
 The generated hydrogen is distributed conservatively through the fracture and transported to the producer using an advection-diffusion balance.
 
 ## Installation
@@ -93,11 +78,7 @@ This is a reduced-order research model. The current version does not solve compl
 
 ## Citation
 
-Suggested temporary citation:
-
-> Kumar, L. Analytical-Rate-Anchored THCM Hydrogen Simulator: A Reduced-Order Framework for Hydrogen Generation Through Serpentinization. Texas A&M University, Version 1.0.
-
-Replace this citation with the associated paper or DOI when available.
+Not available yet.
 
 ## License
 
