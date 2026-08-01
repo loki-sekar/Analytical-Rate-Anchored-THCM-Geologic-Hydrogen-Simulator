@@ -10,7 +10,6 @@ This repository contains a reduced-order thermal-hydraulic-chemical-mechanical (
 |---|---|
 | `01_THCM_Hydrogen_Simulator.ipynb` | Main self-contained simulator notebook. |
 | `02_Sensitivity_Studies.ipynb` | Temperature, fracture-area, refracturing, and H2/CO2 sensitivity studies. |
-| `THCM_Hydrogen_Simulator_User_Manual.pdf` | Condensed technical user manual. |
 | `requirements.txt` | Required Python packages. |
 | `LICENSE` | MIT License. |
 | `images/` | Workflow and representative output figures. |
